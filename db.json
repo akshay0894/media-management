@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Akshay"
+    },
+    {
+      "name": "Luis Klocko II",
+      "id": 3
+    },
+    {
+      "name": "Loren Carter",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Awesome Concrete Chips",
+      "id": 4
+    },
+    {
+      "userId": 3,
+      "title": "Fantastic Frozen Bacon",
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "title": "Gorgeous Frozen Tuna",
+      "id": 7
+    }
+  ],
+  "photos": []
+}
