@@ -28,7 +28,23 @@
       "userId": 3,
       "title": "Gorgeous Frozen Tuna",
       "id": 7
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Rubber Mouse",
+      "id": 8
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=76884",
+      "id": 1
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=37703",
+      "id": 2
+    }
+  ]
 }

@@ -1,4 +1,4 @@
-# User List
+# Media Management for users
 
 This app managing list of users having albhums andd albums havings list of photos. This project is built using Reactjs framework , @reduxjs/toolkit, tailwind as a css framework and backend configured using json-server which uses file db.json. Main purpose behined this application is how we can implement Store using modern features of @reduxjs/toolkit.
 
